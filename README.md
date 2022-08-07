@@ -1,10 +1,10 @@
 # Hi, I'm Jamall!
 
-I'm Jamall! I'm a software developer in Gainesville,FL. I'm a United States Air Force Veteran that likes fast-paced settings where I always learn new things. I've been learning to code since I like making my thoughts a reality. I've worked with Python, Javascript, React, and Node.js. My goal is to work for a company that will help me to grow professionally and personally.
+Hi there! My name is Jamall Malik and I am a software developer living in Gainesville, Florida. I'm a United States Air Force Veteran who enjoys fast-paced settings where there are opportunities for me to learn new things. I've been learning to code because I aspire to make my thoughts a reality. I've worked with Python, Javascript, React, and Node.js. My goal is to work for a company that will help me to grow professionally and personally.
+When I'm not programming, I like to play basketball, work out, travel, and spend time with my friends and family.
 
-while I'm not programming In my spare time, I like to play basketball, work out, and spend time with my friends and family.
 
-Please get in touch with me on the following social media platforms since I enjoy building new relationships.
+Please get in touch with me on the following social media platforms; I enjoy building new relationships. I am excited to continue to learn and grow in this career field! 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flatt-square&logo=gmail&logoColor=white)](mailto:mimsjamall79@gmail.com)
 
