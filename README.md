@@ -6,8 +6,6 @@ When I'm not programming, I like to play basketball, work out, travel, and spend
 
 Please get in touch with me on the following social media platforms; I enjoy building new relationships. I am excited to continue to learn and grow in this career field! 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flatt-square&logo=gmail&logoColor=white)](mailto:mimsjamall79@gmail.com)
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jamall-malik/)
 
 ## 💻 🛠️ Tech and Tools
