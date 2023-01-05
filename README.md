@@ -19,8 +19,7 @@ Please get in touch with me on the following social media platforms; I enjoy bui
 
  
  ## My GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JamallM1&show_icons=true&theme= tokyonight" />
-</a>
+![JamallM1 GitHub stats](https://github-readme-stats.vercel.app/api?username=JamallM1&show_icons=true&theme=nightowl) 
 
 ### Thanks for stopping by!
 
